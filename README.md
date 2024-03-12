@@ -25,6 +25,14 @@
 
 <img width="387" alt="image" src="https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/70d8f14a-13d6-49e4-aa46-b4f7adcebfac">
 
+## Single Chat
+
+<img width="952" alt="image" src="https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/19624f51-ba92-41f0-9ebc-80f62007d7c6">
+
+<img width="958" alt="image" src="https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/af3794f3-9e13-453e-bc33-e9cca4499a86">
+
+
+
 
 
 
