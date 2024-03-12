@@ -10,8 +10,22 @@ import {
 } from "@chakra-ui/react";
 import Login from "../components/Authentication/Login";
 import Signup from "../components/Authentication/Signup";
+import { useEffect } from "react";
+import { useHistory } from "react-router-dom";
 
 const HomePage = () => {
+  //here also write a logic if the user is there then useHistory() and push it to the chats page
+  
+  const history = useHistory();
+
+  useEffect(() => {
+    const user = JSON.parse(localStorage.getItem("userInfo"));
+    if (user) {
+      history.push("/chat"); // Redirect to '/chat' if user is logged in
+    }
+  }, [history]);
+
+
   return (
     <Container maxW="lg" centerContent>
       <Box
