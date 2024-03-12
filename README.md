@@ -31,6 +31,19 @@
 
 <img width="958" alt="image" src="https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/af3794f3-9e13-453e-bc33-e9cca4499a86">
 
+## Notification to the other members of the group from a group chat
+
+<img width="952" alt="groupchat1" src="https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/c1a7eeb0-95b2-4df0-907b-c5d7fba1cded">
+
+## Group chat for other users
+
+<img width="959" alt="groupchat2" src="https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/ecc88062-8491-4e12-b3ab-7700842291d6">
+
+<img width="958" alt="groupchat3" src="https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/44273b86-9a78-4e71-bf67-f3f63b2f4893">
+
+
+
+
 
 
 
