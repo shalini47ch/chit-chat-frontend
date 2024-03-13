@@ -1,6 +1,12 @@
 ## Backend code in the following repo
 https://github.com/shalini47ch/chit-chat
 
+
+
+https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/849afe17-8cd8-4a5e-ae70-f96d48004112
+
+
+
 ## Features:
 ### Authentication: Ensured secure access to the platform by implementing robust user authentication mechanisms.
 ## Login and signup page created 
