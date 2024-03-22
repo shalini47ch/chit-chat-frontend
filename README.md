@@ -44,6 +44,10 @@ https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/849afe17-8cd8-
 ## View Other Users' Profile: Enabled users to explore additional information about fellow platform members for better engagement.
 
 
+![image](https://github.com/shalini47ch/chit-chat-frontend/assets/60210475/2d792130-bd48-4546-a873-f02dd0849056)
+
+
+
 
 
 
