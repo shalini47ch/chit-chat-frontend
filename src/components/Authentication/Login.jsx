@@ -49,7 +49,7 @@ const Login = () => {
         },
       };
       const { data } = await axios.post(
-        "https://chit-chat-backend-0so9.onrender.com/api/user/login",
+        "/api/user/login",
         {
         
           email,

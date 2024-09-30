@@ -107,7 +107,7 @@ const Signup = () => {
         },
       };
       const { data } = await axios.post(
-        "https://chit-chat-backend-0so9.onrender.com/api/user",
+        "/api/user",
         {
           name,
           email,
